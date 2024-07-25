@@ -1,5 +1,9 @@
 # GenAI Workshop
 
+- ![Python](https://img.shields.io/badge/DataMasterMind-Python-3776AB)
+- ![LangChain](https://img.shields.io/badge/DataMasterMind-LangChain-00A86B)
+- ![TogetherAI](https://img.shields.io/badge/DataMasterMind-TogetherAI-4B8BBE)
+
 **Knowledge Sharing Session on Using LLM APIs**
 
 <div style="text-align: center;">

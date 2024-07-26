@@ -26,7 +26,7 @@ Explore the basics of LLMs and enhance your understanding of how to integrate th
 
 Check out this tutorial on how to create an API token for Together AI:
 
-[![Watch the video](https://img.youtube.com/vi/3oC9VrEAjqs/0.jpg)](https://youtu.be/3oC9VrEAjqs?si=L0bdZMGDJ0JMvAZY)
+[![Watch the video](https://img.youtube.com/vi/3oC9VrEAjqs/0.jpg)](https://youtu.be/3oC9VrEAjqs)
 
 In this video, you'll learn:
 

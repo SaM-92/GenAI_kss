@@ -21,7 +21,8 @@ This workshop provides an introduction to using Large Language Model (LLM) APIs 
 
 Explore the basics of LLMs and enhance your understanding of how to integrate these powerful tools into your projects.
 
-# Create API Token
+# Create API Token 
+## Together AI
 
 Check out this tutorial on how to create an API token for Together AI:
 
@@ -32,6 +33,18 @@ In this video, you'll learn:
 - Where to find the API token creation page.
 - How to navigate through the settings.
 - Step-by-step instructions to generate and copy your API token.
-- Tips and best practices for managing your API tokens.
 
 Visit [Together AI](https://www.together.ai) for more information and creating the API token.
+
+## Hugging Face
+
+[![Watch the video](https://img.youtube.com/vi/Wc8HxWUUfOQ/0.jpg)](https://youtu.be/Wc8HxWUUfOQ)
+
+In this video, you'll learn:
+
+- Where to find the API token creation page on Hugging Face.
+- How to navigate through the settings.
+- Step-by-step instructions to generate and copy your Hugging Face API token.
+
+Visit [Hugging Face](https://www.huggingface.co) for more information and creating the API token.
+
